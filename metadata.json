@@ -1,0 +1,6 @@
+{
+  "name": "CineSub Khmer AI - Video Translator & Dubbing Studio",
+  "description": "វេបសាយបកប្រែវីដេអូរឿង អក្សររត់ស្វ័យប្រវត្តិ កែសម្រួលពាក្យពេចន៍ បញ្ចូលសំឡេងនិយាយបែបធម្មជាតិ និងនាំចេញវីដេអូគុណភាពខ្ពស់",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
